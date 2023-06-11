@@ -1,9 +1,1 @@
-# xylophone
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-
+The xylophone mobile app is a virtual instrument that allows users to play the xylophone on their smartphones or tablets. It offers a realistic experience with colorful bars that produce musical notes when tapped.
